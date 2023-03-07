@@ -4,7 +4,7 @@
 ![Faiss-gpu >= 1.6.3](https://img.shields.io/badge/Faiss->=1.6.3-orange.svg)
 
 # TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification
-By Haocong Rao and Chunyan Miao. In CVPR 2023 ([**Paper**](), [**Appendices**]()).
+By Haocong Rao and Chunyan Miao. In CVPR 2023.
 
 
 ## Introduction
