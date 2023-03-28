@@ -1026,7 +1026,10 @@ if FLAGS.mode == 'Train':
 			sess.close()
 
 elif FLAGS.mode == 'Eval':
-	checkpt_file = pre_dir + FLAGS.dataset + '/' + FLAGS.probe + change + '/best.ckpt'
+	if FLAGS.dataset == 'CASIA_B':
+		checkpt_file = pre_dir + FLAGS.dataset + '/' + FLAGS.probe + change + '/' + FLAGS.probe_type + '_best.ckpt'
+	else:
+		checkpt_file = pre_dir + FLAGS.dataset + '/' + FLAGS.probe + change + '/best.ckpt'
 
 	with tf.Session(graph=loaded_graph, config=config) as sess:
 		loader = tf.train.import_meta_graph(checkpt_file + '.meta')
