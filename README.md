@@ -39,7 +39,7 @@ Please download the pre-processed datasets and model files while unzipping them 
 
 **Note**: The access to the Vislab Multi-view KS20 dataset and large-scale RGB-based gait dataset CASIA-B are available upon request. If you have signed the license agreement and been granted the right to use them, please email us with the signed agreement and we will share the complete pre-processed KS20 and CASIA-B data. The original datasets can be downloaded here: [IAS-Lab](http://robotics.dei.unipd.it/reid/index.php/downloads), [BIWI](http://robotics.dei.unipd.it/reid/index.php/downloads), [KGBD](https://www.researchgate.net/publication/275023745_Kinect_Gait_Biometry_Dataset_-_data_from_164_individuals_walking_in_front_of_a_X-Box_360_Kinect_Sensor), [KS20](http://vislab.isr.ist.utl.pt/datasets/#ks20), [CASIA-B](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp). We also provide the ``Preprocess.py`` for directly transforming original datasets to the formated training and testing data. <br/> 
 
-(Update in March 2023) The **pre-trained models** on CASIA-B are available [**here (pwd: vh3w)**](https://pan.baidu.com/s/1A1espiebe1do0NdcNfJUcQ).
+[Update in March 2023]: The **pre-trained models** on CASIA-B (Discussion Section 5) are available [**here (pwd: vh3w)**](https://pan.baidu.com/s/1A1espiebe1do0NdcNfJUcQ).
 
 ## Dataset Pre-Processing
 To (1) extract 3D skeleton sequences of length **f=6** from original datasets and (2) process them in a unified format (``.npy``) for the model inputs, please simply run the following command: 
