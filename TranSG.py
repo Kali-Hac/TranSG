@@ -95,6 +95,7 @@ elif dataset == 'CASIA_B':
 	FLAGS.lr = '0.00035'
 	FLAGS.rand_flip = '0'
 	FLAGS.patience = '60'
+	FLAGS.seq_lambda = '1.0'
 else:
 	FLAGS.lr = '0.00035'
 
