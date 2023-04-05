@@ -6,6 +6,7 @@
 # TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification
 By Haocong Rao and Chunyan Miao. In CVPR 2023 ([**Paper**](https://arxiv.org/abs/2303.06819)). 
 
+To the best of our knowledge, this is the *first* skeleton-based person re-identification paper appeared on CVPR.
 
 ## Introduction
 This is the official implementation of TranSG presented by "TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification". The codes are used to reproduce experimental results of the proposed SimMC framework in the paper.
