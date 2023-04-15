@@ -149,6 +149,18 @@ python TranSG.py --dataset CAISA_B --probe_type nm.nm --length 40
 
 Please see ```TranSG.py``` for more details.
 
+## Citation
+If you find our work useful for your research, please cite our paper
+```bash
+@inproceedings{rao2023transg,
+  title={{TranSG}: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification},
+  author={Rao, Haocong and Miao, Chunyan},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023}
+}
+
+```
+More awesome skeleton-based models are collected in our [Awesome-Skeleton-Based-Models](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
 
 ## License
 
