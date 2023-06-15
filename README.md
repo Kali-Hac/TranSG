@@ -4,7 +4,7 @@
 ![Faiss-gpu >= 1.6.3](https://img.shields.io/badge/Faiss->=1.6.3-orange.svg)
 
 # TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification
-By Haocong Rao and Chunyan Miao. In CVPR 2023 ([**Arxiv**](https://arxiv.org/abs/2303.06819)), ([**Paper**]([https://www.ijcai.org/proceedings/2022/0180.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Rao_TranSG_Transformer-Based_Skeleton_Graph_Prototype_Contrastive_Learning_With_Structure-Trajectory_Prompted_CVPR_2023_paper.pdf)), [**Appendices**]([https://arxiv.org/abs/2204.09826v3](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Rao_TranSG_Transformer-Based_Skeleton_CVPR_2023_supplemental.zip))). 
+By Haocong Rao and Chunyan Miao. In CVPR 2023 ([**Arxiv**](https://arxiv.org/abs/2303.06819)), ([**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Rao_TranSG_Transformer-Based_Skeleton_Graph_Prototype_Contrastive_Learning_With_Structure-Trajectory_Prompted_CVPR_2023_paper.pdf)), ([**Appendices**](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Rao_TranSG_Transformer-Based_Skeleton_CVPR_2023_supplemental.zip)). 
 
 
 ## Introduction
