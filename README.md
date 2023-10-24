@@ -33,7 +33,7 @@ conda install scikit-learn
 ```
 
 ## Datasets and Models
-We provide three already **pre-processed datasets** (IAS-Lab, BIWI, KGBD) with various sequence lengths (**f=4/6/8/10/12**) [**here (pwd: 7je2)**](https://pan.baidu.com/s/1R7CEsyMJsEnZGFLqwvchBg) and the **pre-trained models** [**here (pwd: gvub)**](https://pan.baidu.com/s/1jy4LKITYKw8iG1DwsFjp-w). Since we report the average performance of our approach on all datasets, here the provided models may produce better results than the paper. <br/>
+We provide three already **pre-processed datasets** (IAS-Lab, BIWI, KGBD) with various sequence lengths (**f=4/6/8/10/12**) [**here (pwd: 7je2)**](https://pan.baidu.com/s/1R7CEsyMJsEnZGFLqwvchBg) and the **pre-trained models** [**here (pwd: gvub)**](https://pan.baidu.com/s/1jy4LKITYKw8iG1DwsFjp-w) or [Google Drive](https://drive.google.com/file/d/1rRhJqu1blnTq2Uun7GypTXAQHHMAVdDW/view?usp=sharing). Since we report the average performance of our approach on all datasets, here the provided models may produce better results than the paper. <br/>
 
 Please download the pre-processed datasets and model files while unzipping them to ``Datasets/`` and ``ReID_Models/`` folders in the current directory. <br/>
 
