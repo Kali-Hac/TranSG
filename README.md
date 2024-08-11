@@ -44,7 +44,7 @@ Please download the pre-processed datasets and model files while unzipping them 
 ## Dataset Pre-Processing
 To (1) extract 3D skeleton sequences of length **f=6** from original datasets and (2) process them in a unified format (``.npy``) for the model inputs, please simply run the following command: 
 ```bash
-python Pre-process.py 6
+python Preprocess.py 6
 ```
 **Note**: If you hope to preprocess manually (or *you can get the [already preprocessed data (pwd: 7je2)](https://pan.baidu.com/s/1R7CEsyMJsEnZGFLqwvchBg)*), please frist download and unzip the original datasets to the current directory with following folder structure:
 ```bash
